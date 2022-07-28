@@ -1,4 +1,4 @@
-System.register(["./application.fd251.js"], function (_export, _context) {
+System.register(["./application.cf2de.js"], function (_export, _context) {
   "use strict";
 
   var createApplication, canvas, $p, bcr;
@@ -67,8 +67,8 @@ System.register(["./application.fd251.js"], function (_export, _context) {
   }
 
   return {
-    setters: [function (_applicationFd251Js) {
-      createApplication = _applicationFd251Js.createApplication;
+    setters: [function (_applicationCf2deJs) {
+      createApplication = _applicationCf2deJs.createApplication;
     }],
     execute: function () {
       canvas = document.getElementById('GameCanvas');
